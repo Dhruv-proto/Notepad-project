@@ -1,0 +1,51 @@
+C:\Users\Student Pc 94\Desktop\ta\u3\Notepad\bin\Debug\net6.0-windows\Notepad.exe
+C:\Users\Student Pc 94\Desktop\ta\u3\Notepad\bin\Debug\net6.0-windows\Notepad.deps.json
+C:\Users\Student Pc 94\Desktop\ta\u3\Notepad\bin\Debug\net6.0-windows\Notepad.runtimeconfig.json
+C:\Users\Student Pc 94\Desktop\ta\u3\Notepad\bin\Debug\net6.0-windows\Notepad.dll
+C:\Users\Student Pc 94\Desktop\ta\u3\Notepad\bin\Debug\net6.0-windows\Notepad.pdb
+C:\Users\Student Pc 94\Desktop\ta\u3\Notepad\obj\Debug\net6.0-windows\Notepad.csproj.AssemblyReference.cache
+C:\Users\Student Pc 94\Desktop\ta\u3\Notepad\obj\Debug\net6.0-windows\Notepad.Form1.resources
+C:\Users\Student Pc 94\Desktop\ta\u3\Notepad\obj\Debug\net6.0-windows\Notepad.csproj.GenerateResource.cache
+C:\Users\Student Pc 94\Desktop\ta\u3\Notepad\obj\Debug\net6.0-windows\Notepad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student Pc 94\Desktop\ta\u3\Notepad\obj\Debug\net6.0-windows\Notepad.AssemblyInfoInputs.cache
+C:\Users\Student Pc 94\Desktop\ta\u3\Notepad\obj\Debug\net6.0-windows\Notepad.AssemblyInfo.cs
+C:\Users\Student Pc 94\Desktop\ta\u3\Notepad\obj\Debug\net6.0-windows\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\Student Pc 94\Desktop\ta\u3\Notepad\obj\Debug\net6.0-windows\Notepad.dll
+C:\Users\Student Pc 94\Desktop\ta\u3\Notepad\obj\Debug\net6.0-windows\refint\Notepad.dll
+C:\Users\Student Pc 94\Desktop\ta\u3\Notepad\obj\Debug\net6.0-windows\Notepad.pdb
+C:\Users\Student Pc 94\Desktop\ta\u3\Notepad\obj\Debug\net6.0-windows\Notepad.genruntimeconfig.cache
+C:\Users\Student Pc 94\Desktop\ta\u3\Notepad\obj\Debug\net6.0-windows\ref\Notepad.dll
+C:\Users\Student Pc 81\Desktop\dotnet\unit 3\Notepad\bin\Debug\net6.0-windows\Notepad.exe
+C:\Users\Student Pc 81\Desktop\dotnet\unit 3\Notepad\bin\Debug\net6.0-windows\Notepad.deps.json
+C:\Users\Student Pc 81\Desktop\dotnet\unit 3\Notepad\bin\Debug\net6.0-windows\Notepad.runtimeconfig.json
+C:\Users\Student Pc 81\Desktop\dotnet\unit 3\Notepad\bin\Debug\net6.0-windows\Notepad.dll
+C:\Users\Student Pc 81\Desktop\dotnet\unit 3\Notepad\bin\Debug\net6.0-windows\Notepad.pdb
+C:\Users\Student Pc 81\Desktop\dotnet\unit 3\Notepad\obj\Debug\net6.0-windows\Notepad.csproj.AssemblyReference.cache
+C:\Users\Student Pc 81\Desktop\dotnet\unit 3\Notepad\obj\Debug\net6.0-windows\Notepad.Form1.resources
+C:\Users\Student Pc 81\Desktop\dotnet\unit 3\Notepad\obj\Debug\net6.0-windows\Notepad.csproj.GenerateResource.cache
+C:\Users\Student Pc 81\Desktop\dotnet\unit 3\Notepad\obj\Debug\net6.0-windows\Notepad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student Pc 81\Desktop\dotnet\unit 3\Notepad\obj\Debug\net6.0-windows\Notepad.AssemblyInfoInputs.cache
+C:\Users\Student Pc 81\Desktop\dotnet\unit 3\Notepad\obj\Debug\net6.0-windows\Notepad.AssemblyInfo.cs
+C:\Users\Student Pc 81\Desktop\dotnet\unit 3\Notepad\obj\Debug\net6.0-windows\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\Student Pc 81\Desktop\dotnet\unit 3\Notepad\obj\Debug\net6.0-windows\Notepad.dll
+C:\Users\Student Pc 81\Desktop\dotnet\unit 3\Notepad\obj\Debug\net6.0-windows\refint\Notepad.dll
+C:\Users\Student Pc 81\Desktop\dotnet\unit 3\Notepad\obj\Debug\net6.0-windows\Notepad.pdb
+C:\Users\Student Pc 81\Desktop\dotnet\unit 3\Notepad\obj\Debug\net6.0-windows\Notepad.genruntimeconfig.cache
+C:\Users\Student Pc 81\Desktop\dotnet\unit 3\Notepad\obj\Debug\net6.0-windows\ref\Notepad.dll
+C:\Users\Student Pc 81\Documents\dotnet\unit 3\Notepad\bin\Debug\net6.0-windows\Notepad.exe
+C:\Users\Student Pc 81\Documents\dotnet\unit 3\Notepad\bin\Debug\net6.0-windows\Notepad.deps.json
+C:\Users\Student Pc 81\Documents\dotnet\unit 3\Notepad\bin\Debug\net6.0-windows\Notepad.runtimeconfig.json
+C:\Users\Student Pc 81\Documents\dotnet\unit 3\Notepad\bin\Debug\net6.0-windows\Notepad.dll
+C:\Users\Student Pc 81\Documents\dotnet\unit 3\Notepad\bin\Debug\net6.0-windows\Notepad.pdb
+C:\Users\Student Pc 81\Documents\dotnet\unit 3\Notepad\obj\Debug\net6.0-windows\Notepad.csproj.AssemblyReference.cache
+C:\Users\Student Pc 81\Documents\dotnet\unit 3\Notepad\obj\Debug\net6.0-windows\Notepad.Form1.resources
+C:\Users\Student Pc 81\Documents\dotnet\unit 3\Notepad\obj\Debug\net6.0-windows\Notepad.csproj.GenerateResource.cache
+C:\Users\Student Pc 81\Documents\dotnet\unit 3\Notepad\obj\Debug\net6.0-windows\Notepad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student Pc 81\Documents\dotnet\unit 3\Notepad\obj\Debug\net6.0-windows\Notepad.AssemblyInfoInputs.cache
+C:\Users\Student Pc 81\Documents\dotnet\unit 3\Notepad\obj\Debug\net6.0-windows\Notepad.AssemblyInfo.cs
+C:\Users\Student Pc 81\Documents\dotnet\unit 3\Notepad\obj\Debug\net6.0-windows\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\Student Pc 81\Documents\dotnet\unit 3\Notepad\obj\Debug\net6.0-windows\Notepad.dll
+C:\Users\Student Pc 81\Documents\dotnet\unit 3\Notepad\obj\Debug\net6.0-windows\refint\Notepad.dll
+C:\Users\Student Pc 81\Documents\dotnet\unit 3\Notepad\obj\Debug\net6.0-windows\Notepad.pdb
+C:\Users\Student Pc 81\Documents\dotnet\unit 3\Notepad\obj\Debug\net6.0-windows\Notepad.genruntimeconfig.cache
+C:\Users\Student Pc 81\Documents\dotnet\unit 3\Notepad\obj\Debug\net6.0-windows\ref\Notepad.dll
